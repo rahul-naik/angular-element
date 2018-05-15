@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ngrx
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# angular-element
+Angular element demonstration
+>>>>>>> 7f16b7b57d5310fdc7289cb34a0479ff8f3e81d2
